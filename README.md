@@ -23,10 +23,15 @@ Water temperature refers to the temperature of the water sample in degree Celsiu
 
 ## Model(s) Used
 
-The models used are liner regression and
+The models used in this task are multiple liner regression and polynomial regression.
 
-**Linear regression :**
-Linear regression is a linear model, e.g. a model that assumes a linear relationship between the input variables (x) and the single output variable (y). The linear equation assigns one scale factor to each input value or column, called a coefficient and represented by the capital Greek letter Beta (B). One additional coefficient is also added, giving the line an additional degree of freedom (e.g. moving up and down on a two-dimensional plot) and is often called the intercept or the bias coefficient.
+**Multiple linear regression :**
+<br>
+Multiple linear regression is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. Multiple regression is an extension of linear regression that uses just one explanatory variable.
+
+**Polynomial regression :**
+<br>
+Polynomial Regression is a regression algorithm that models the relationship between a dependent(y) and independent variable(x) as nth degree polynomial.
 
 ## Future Work
 Good ideas or strategies that you were not able to implement which you think can help  improve performance.
