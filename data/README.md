@@ -6,5 +6,5 @@ This folder contains all your datasets. The following files will be stored here
 2. All images for a Computer Vision task
 3. All audio files for an audio task
 
-**Since bottle.csv dataset was too big to upload, the link is give : https://drive.google.com/file/d/17sTBkS5sTcDzJSsCFZ8ypUXCLBbKuox4/view?usp=sharing**
+**Since bottle.csv dataset was too big to upload, the link is given : https://drive.google.com/file/d/17sTBkS5sTcDzJSsCFZ8ypUXCLBbKuox4/view?usp=sharing**
 
