@@ -38,4 +38,4 @@ These regression estimates are used to explain the relationship between one depe
 Polynomial Regression is a regression algorithm that models the relationship between a dependent(y) and independent variable(x) as nth degree polynomial.
 
 ## Future Work
-Good ideas or strategies that you were not able to implement which you think can help  improve performance.
+Increase the accuracy score of both models, don't know how to do that as of now.
